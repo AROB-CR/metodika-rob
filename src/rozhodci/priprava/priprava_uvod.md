@@ -1,0 +1,5 @@
+# Příprava soutěží v ROB (Pavel Kolský)
+
+Ač ROB nepatří k masovým sportům, i tak je realizace soutěže v něm poměrně obtížný úkol, zejména u vyšších soutěží. Kromě samotné soutěže je totiž potřeba zajistit spoustu okolních přípravných prací a materiálu potřebného k uskutečnění soutěže (mapy, povolení, vysílače, roznos atd.). Stejně jako trénink je i pořádání poměrně rozmanitá záležitost a většina pořadatelů již má nacvičen nějaký fungující postup, který v rámci klubu používá. 
+
+V této kapitole je rozebrána problematika pořádání soutěže od prvních kroků až po samotnou realizaci a vyhodnocení. Zaměření bude kladeno na organizaci soutěží 1. stupně, avšak využití má i pro nižší soutěže. Tipy v této kapitole jsou sesbírané od zkušených pořadatelů a slouží zejména pro ulehčení práce při zachování sportovní kvality soutěže.

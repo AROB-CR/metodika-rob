@@ -1,6 +1,8 @@
 # Úvod
 
-Cílem této knihy je shromáždit a doplnit metodické materiály pro rádiový orientační běh. Měla by sloužit jako opora novým i  stávajícím trenérům a rozhodčím, ale zároveň i jako inspirace pro samotné závodníky. Kromě vlastního obsahu přináší odkazy na ostatní zajímavé zdroje, včetně metodických příruček a videí.
+**METODIKA JE VE VÝVOJI!**
+
+Cílem této metodiky je shromáždit a doplnit metodické materiály pro rádiový orientační běh. Měla by sloužit jako opora novým i  stávajícím trenérům a rozhodčím, ale zároveň i jako inspirace pro samotné závodníky. Kromě vlastního obsahu přináší odkazy na ostatní zajímavé zdroje, včetně metodických příruček a videí.
 
 Celá kniha je rozdělena na dvě sekce - sekci trenérskou, věnující se hlavně přípravě a závodění a sekci rozhodčích, která se věnuje pořádání soutěží a aplikací pravidel.
 

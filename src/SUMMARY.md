@@ -5,6 +5,13 @@
 # Trénink a příprava v ROB
 - [Podstata a historie ROB](./treneri/treneri_uvod.md)
 - [Sportovní trénink](./treneri/sportovni_trenink/sportovni_trenink_uvod.md)
+  - [Struktura tréninkového roku](./treneri/sportovni_trenink/sportovni_trenink_struktura.md)
+  - [Tréninkové zóny](./treneri/sportovni_trenink/sportovni_trenink_zony.md)
+  - [Sportovní trénink dle kategorií](./treneri/sportovni_trenink/kategorie/sportovni_trenink_kategorie.md)
+    -  [Žactvo](./treneri/sportovni_trenink/kategorie/sportovni_trenink_zactvo.md)
+    - [Dorostenci](./treneri/sportovni_trenink/kategorie/sportovni_trenink_dorostenci.md)
+    - [Junioři](./treneri/sportovni_trenink/kategorie/sportovni_trenink_juniori.md)
+    - [Dospělí](./treneri/sportovni_trenink/kategorie/sportovni_trenink_dospeli.md)
 - [Technická příprava](./treneri/technika/technika_uvod.md)
   - [Disciplíny](./treneri/technika/technika_discipliny.md)
   - [Věkové skupiny](./treneri/technika/technika_vekove_skupiny.md)
@@ -20,12 +27,15 @@
   - [Tréninkové deníky](./treneri/technologie/technologie_deniky.md)
   - [GPS hodinky](./treneri/technologie/technologie_hodinky.md)
   - [GPS analýzy](./treneri/technologie/technologie_analyzy.md)
+- [Odkazy](./treneri/treneri_odkazy.md)
   
   
 # Pořádání soutěží ROB
 
 - [Příprava soutěže](./rozhodci/priprava/priprava_uvod.md)
-  - [Harmonogram soutěže](./rozhodci/priprava/priprava_harmonogram.md)
+  - [Proč pořádat](./rozhodci/priprava/priprava_duvody.md)
+  - [Lokalita](./rozhodci/priprava/priprava_lokalita.md)
+  - [Harmonogram](./rozhodci/priprava/priprava_harmonogram.md)
   - [Tým](./rozhodci/priprava/priprava_tym.md)
   - [Rozpočet](./rozhodci/priprava/priprava_rozpocet.md)
   - [Povolení](./rozhodci/priprava/priprava_povoleni.md)
@@ -46,7 +56,4 @@
   - [Odposlech](./rozhodci/realizace/realizace_odposlech.md)
   - [Start](./rozhodci/realizace/realizace_start.md)
   - [Cíl](./rozhodci/realizace/realizace_cil.md)
-  
-  
-# Zdroje
-- [Zdroje](./zdroje.md)
+- [Odkazy](./rozhodci/rozhodci_odkazy.md)

@@ -1,0 +1,1 @@
+# Tréninkové zóny podle intenzity běhu a tepové frekvence
