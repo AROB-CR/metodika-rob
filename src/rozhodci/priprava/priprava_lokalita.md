@@ -9,7 +9,9 @@ Následující seznam poskytuje vlastnosti, které by měl vhodný prostor na RO
 
 - **Velikost** - pro závod na klasické trati je vhodné mít mapu v měřítku 1:10 000 či 1:15000 formátu minimálně A4. Menší mapy potřebují specifické prvky (členitost, zarostlý terén), aby nebyly zásadně posunuté směrné časy.
 - **Existence a dostupnost map** - kromě existence mapy je zároveň potřeba mít s daným klubem domluvené poskytnutí podkladů. Spousta klubů vlastní map poměrně málo a využívá je pro své závody během roku či v dalších letech. Doporučuje se tak mapy řešit co nejdříve.
-- **Dostupnost** - při přípravě bude potřeba prostor navštívit či případně provést revizi mapy, je tedy vhodné zvolit relativně dostupnou lokalitu.
+
+- **Dostupnost ubytování** - u víkendových závodů se dá vystačit s ubytováním ve tělocvičně / škole, u vícedenních se vyplatí porozhlídnout se po rekreačním areálu / kempu. Velkých ubytovacích středisek v ČR v blízkosti map bohužel není zas tolik.
+- **Dopravní dostupnost** - při přípravě bude potřeba prostor navštívit či případně provést revizi mapy, je tedy vhodné zvolit relativně dostupnou lokalitu.
 - **Unikátnost** - soutěže 1. stupně se dle pravidel nesmí konat v prostoru, kde se v uplynulých dvou letech konala soutěž v ROB.[^1]. Stejně tak nechcete zasahovat jinému oddílu do míst, kde obvykle pořádá své soutěže.
 - **Členitost** - velmi členitý či velmi plochý terén přináší své výzvy a je nutné na toto pamatovat při stavbě tratí. Zejména u závodů na 2m je dobré si uvědomit, že se jej kromě elitních kategorií budou účastnit i malí žáci a veteráni.
 - **Adekvátní přírodní ochrana** - v ČR existuje několik stupňů přírodní ochrany krajiny a pojí se s nimi některé další povinnosti. Je tedy potřeba zkontrolovat, zda se daný prostor nenachází v rámci některé z rezervací a případně postupovat podle vyhlášek.[^2]
@@ -21,6 +23,9 @@ V rámci ČR je nejjednodušší použít [Mapový portál ČSOS](https://mapy.c
 Některé mapy do portálu bývají zanesené až se zpožděním, avšak obvykle již po skončení akce jsou dostupné nástroje pro analýzu trati (Livelox apod). V portálu je často uveden přímo odkaz na konkrétní závod v ORISu, odkud se následně dá dostat na samotnou analýzu. Z takového přehledu se již obvykle dá zvážit, zda by daný terén mohl být vhodný pro závod v ROB.
 
 **Mapy získané z Mapového portálu či analyzačního softwaru nesmí být použity k jakémukoliv tréninkovému či soutěžnímu využití!**
+
+
+![Mapový portál ČSOS](../../img/priprava_lokalita_00.jpg)
 
 [^1]: [Pravidla ROB](https://ardf.cz/clanek/6/dokumenty-ke-stazeni.html)
 

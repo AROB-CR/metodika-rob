@@ -1,1 +1,0 @@
-# Věkové skupiny

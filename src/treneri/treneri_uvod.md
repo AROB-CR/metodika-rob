@@ -19,5 +19,5 @@ Po rozpadu ČSSR došlo k oddělení českého a slovenského radioklubu a vznik
 
 Podrobněji se historii a vývoji ROB v ČR věnuje ve své bakalářské práci Eliška Kuncová.[^2]
 
-[^1]: ARDF IARU European (Region 1), World (W/EYAC Championships in general and the Netherlands participation, HOEK Jan, 2023 - [odkaz](https://ardf.veron.nl/iaru-ardf-boek/) 
+[^1]: HOEK Jan, ARDF IARU European (Region 1), World (W/EYAC Championships in general and the Netherlands participation, 2023 - [odkaz](https://ardf.veron.nl/iaru-ardf-boek/) 
 [^2]: KUNCOVÁ, Eliška. Vznik, vývoj a současná podoba radiového orientačního běhu v České republice - [odkaz](http://hdl.handle.net/11025/2028)

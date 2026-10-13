@@ -9,3 +9,10 @@ Celá kniha je rozdělena na dvě sekce - sekci trenérskou, věnující se hlav
 Knihu je v plánu postupně vylepšovat a aktualizovat, všechny návrhy a připomínky jsou samozřejmě vítány, ideálně přes issue přímo v [repozitáři projektu](https://github.com/AROB-CR/metodika-rob), případně [emailem](mailto:kolskypavel@gmail.com).
 
 Pavel Kolský a kolektiv autorů
+
+## Poděkování
+Poděkování patří všem, kteří přispěli k sepsání této metodiky, ať už přímo svými texty, či podněty.
+
+## Autoři
+- Pavel Kolský
+- Jakub Šrom
