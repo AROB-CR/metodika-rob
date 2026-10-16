@@ -5,7 +5,7 @@ Tréninkový proces neprobíhá v každé fázi tréninkového roku stejně, jel
 ## Zimní příprava
 V této fázi je důraz kladen na budování vytrvalosti a síly. Intenzita tréninku je většinou nižší, běhají se dlouhé objemové běhy (cca 1,5 h a více). Část této přípravy je možné doplnit jinými aktivitami (běh na lyžích, posilovna), nicméně **samy o sobě nejsou schopné běh nahradit**!
 
-Časově se jedná o období od listopadu do cca konce února, během kterých by měl závodník naběhat přibližně XX procent objemu. Nedostatečná příprava v této fázi vede k větší náchylnosti na zranění ze začátku závodní sezóny.
+Časově se jedná o období od listopadu do cca konce února, během kterých by měl závodník naběhat kvalitní objem. Nedostatečná příprava v této fázi vede k větší náchylnosti na zranění ze začátku závodní sezóny.
 
 ## Předzávodní příprava
 Během předzávodní přípravy dochází k postupnému zrychlování a rozvoji rychlosti, vyplatí se zařazovat dráhové a tempové úseky, běhy do kopců a obdobné prvky. Právě v této fázi se stále dá částečně "dotrénovat" výpadek z předchozí fáze (například způsobený nemocí). Tato fáze trvá od začátku března po začátek závodního období (v ROB obvykle cca půlka dubna). Do této fáze se též často přechází v období letních prázdnin, kdy jarní část sezóny končí a je potřeba se začít postupně připravovat na podzimní.

@@ -5,8 +5,8 @@ Pro trénink běhu na azimut je potřeba mít vhodnou a stabilní buzolu upevně
 
 ## Cvičení pro trénink běhu na azimut
 
-Dlouhé postupy
+### Dlouhé postupy
 Tento trénink je ideální provádět ve známém prostředí, pokud možno dobře průběžném. Jedná se o klasický OB, kde postupy mezi kontrolami jsou na velmi dlouhou vzdálenost (například pro dorostence 400m a víc). Vhodné je, aby jej svěřenci absolvovali s rádiem a simulovali tak reálné podmínky při ROB.
 
-Na jednu relaci
+### Na jednu relaci
 Vysílače umístíme do hvězdice a nastavíme je na krátké relace. 

@@ -27,9 +27,8 @@ význam pro efektivní vytrvalostní trénink
 - **Tepová frekvence** – ukazatel intenzity pro jednotlivé formy tréninku
 - **Superkompenzace** – obnovení energetických zdrojů nad původní úroveň – podstatné pro
 plánování tréninkového procesu (začátek dalšího tréninku)
-- **Tréninkové cykly** – roční cyklus/makrocyklus (čtvrtletní, měsíční)/mikrocyklus (týdenní),
-tréninková jednotka (denní)
+
 
 [^1]: ZAHRADNÍK, KORVAS. Základy sportovního tréninku, 2012 [odkaz](https://munispace.muni.cz/library/catalog/book/697)
 
-[^2]: VLACH Miroslav, Stručná metodika individuálních kondičních tréninků pro ROB [odkaz](https://www.ardf-cheb.cz/images_obsah/puvodni/1588271762-kondicni-trenink-strucna-metodika-2020.pdf)
+[^2]: VLACH Miroslav, Stručná metodika individuálních kondičních tréninků pro ROB, 2020 [odkaz](https://www.ardf-cheb.cz/images_obsah/puvodni/1588271762-kondicni-trenink-strucna-metodika-2020.pdf)
