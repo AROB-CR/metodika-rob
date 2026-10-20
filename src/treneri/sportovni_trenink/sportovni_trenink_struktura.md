@@ -15,4 +15,9 @@ V závodním období je cílem udržet závodní výkonnost mezi závody a před
 
 V tomto období nebývá často tolik dní mezi závody na regeneraci, o to více je potřeba regenerovat kvalitně – mít dostatek dobrého spánku, vhodnou stravu či případně zařadit další regerační aktivity (sauna, plavání, masáže atd.).
 
+## Přechodné období
+Přechodné období slouží k odpočinku mezi jednotlivými sezónami, nastává tedy po posledním důležitém závodu sezóny. Je určeno pro fyzický i psychický odpočinek, doléčení zranění a nabrání motivace pro další výkony.
+
+Trvá obvykle mezi 2-4 týdny (dle náročnosti uplynulé sezóny a stavu atleta), během kterých by měl být zařazen pouze lehký pohyb, ideálně neběžeckého charakteru (plavání, míčové hry, protahování). Zbytek náplně by měla tvořit kvalitní regenerace.
+
 ![Struktura tréninkového roku](../../img/sportovni_trenink_struktura_00.jpg)

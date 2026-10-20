@@ -13,14 +13,16 @@
     - [Junioři](./treneri/sportovni_trenink/kategorie/sportovni_trenink_juniori.md)
     - [Dospělí](./treneri/sportovni_trenink/kategorie/sportovni_trenink_dospeli.md)
 - [Technická příprava](./treneri/technika/technika_uvod.md)
-  - [Disciplíny](./treneri/technika/technika_discipliny.md)
   - [Prvky technické přípravy](./treneri/technika/prvky/technicke_prvky.md)
-    - [Zaměřování](./treneri/technika/prvky/technicke_prvky_zamerovani.md)
+    - [Ladění a zaměřování](./treneri/technika/prvky/technicke_prvky_ladeni_zamerovani.md)
     - [Běh na azimut](./treneri/technika/prvky/technicke_prvky_azimuty.md)
     - [Zákresy](./treneri/technika/prvky/technicke_prvky_zakresy.md)
-    - [Mapová příprava](./treneri/technika/prvky/technicke_prvky_mapa.md)
+    - [Orientace v mapě](./treneri/technika/prvky/technicke_prvky_mapa.md)
+    - [Volba pořadí](./treneri/technika/prvky/technicke_prvky_poradi.md)
+   
+  - [Disciplíny](./treneri/technika/technika_discipliny.md)
   - [Trénink dospělých nováčků](./treneri/technika/technika_dospeli_novacci.md)
- 
+
 - [Taktická příprava](./treneri/taktika/taktika_uvod.md)
 - [Psychologická příprava](./treneri/psychologie/psychologie_uvod.md)
 - [Technologie](./treneri/technologie/technologie_uvod.md)
@@ -35,9 +37,9 @@
 
 - [Příprava soutěže](./rozhodci/priprava/priprava_uvod.md)
   - [Motivace](./rozhodci/priprava/priprava_motivace.md)
+  - [Tým a komunikace](./rozhodci/priprava/priprava_tym.md)
   - [Lokalita](./rozhodci/priprava/priprava_lokalita.md)
   - [Harmonogram](./rozhodci/priprava/priprava_harmonogram.md)
-  - [Tým](./rozhodci/priprava/priprava_tym.md)
   - [Rozpočet](./rozhodci/priprava/priprava_rozpocet.md)
   - [Povolení](./rozhodci/priprava/priprava_povoleni.md)
   - [Propozice, pokyny, startovky](./rozhodci/priprava/priprava_propozice.md)
@@ -61,5 +63,6 @@
   - [Odposlech](./rozhodci/realizace/realizace_odposlech.md)
   - [Start](./rozhodci/realizace/realizace_start.md)
   - [Cíl](./rozhodci/realizace/realizace_cil.md)
+  - [Problémy a jejich řešení](./rozhodci/realizace/realizace_problemy.md)
   - [Po skončení](./rozhodci/realizace/realizace_po_skonceni.md)
 - [Odkazy](./rozhodci/rozhodci_odkazy.md)
