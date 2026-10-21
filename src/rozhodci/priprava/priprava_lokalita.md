@@ -25,7 +25,7 @@ Některé mapy do portálu bývají zanesené až se zpožděním, avšak obvykl
 **Mapy získané z Mapového portálu či analyzačního softwaru nesmí být použity k jakémukoliv tréninkovému či soutěžnímu využití!**
 
 
-![Mapový portál ČSOS](../../img/priprava_lokalita_00.jpg)
+![Mapový portál ČSOS](../../img/priprava_lokalita_portal.jpg)
 
 [^1]: [Pravidla ROB](https://ardf.cz/clanek/6/dokumenty-ke-stazeni.html)
 

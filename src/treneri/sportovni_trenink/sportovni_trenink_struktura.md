@@ -20,4 +20,4 @@ Přechodné období slouží k odpočinku mezi jednotlivými sezónami, nastáv�
 
 Trvá obvykle mezi 2-4 týdny (dle náročnosti uplynulé sezóny a stavu atleta), během kterých by měl být zařazen pouze lehký pohyb, ideálně neběžeckého charakteru (plavání, míčové hry, protahování). Zbytek náplně by měla tvořit kvalitní regenerace.
 
-![Struktura tréninkového roku](../../img/sportovni_trenink_struktura_00.jpg)
+![Struktura tréninkového roku](../../img/sportovni_trenink_struktura_obdobi.jpg)
