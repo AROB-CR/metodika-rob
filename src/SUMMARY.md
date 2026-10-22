@@ -19,12 +19,11 @@
     - [Běh na azimut](./treneri/technika/prvky/technicke_prvky_azimuty.md)
     - [Zákresy](./treneri/technika/prvky/technicke_prvky_zakresy.md)
     - [Orientace v mapě](./treneri/technika/prvky/technicke_prvky_mapa.md)
-    - [Volba pořadí](./treneri/technika/prvky/technicke_prvky_poradi.md)
-   
-  - [Disciplíny](./treneri/technika/technika_discipliny.md)
   - [Trénink dospělých nováčků](./treneri/technika/technika_dospeli_novacci.md)
 
 - [Taktická příprava](./treneri/taktika/taktika_uvod.md)
+  - [Volba pořadí](./treneri/taktika/taktika_poradi.md)
+  - [Specifika disciplín](./treneri/taktika/taktika_discipliny.md)
 - [Psychologická příprava](./treneri/psychologie/psychologie_uvod.md)
 - [Technologie](./treneri/technologie/technologie_uvod.md)
   - [Vysílače](./treneri/technologie/technologie_vysilace.md)

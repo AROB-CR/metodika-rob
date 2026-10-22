@@ -87,4 +87,8 @@ viditelností z vrcholků kopců a tím se mění i síla a směry signálů. Z�
 - A - síla signálu je dobrá (útlum je stažený na polovinu)
 - B - síla signálu je slabší (na stejnou sílu signálu jako v A musíme zesílit hlasitost) 
 
+### Tréninky zaměřování v pásmu 144 MHz
+- **Dvoumetr v kopci** -- pro tento trénink je potřeba poměrně velký, rozsáhlý kopec, ideálně s výraznou linií / cestou veprostřed. Vysílače nastavíme na klasické relace a umístíme je do různých výšek (na úpatí, těsně za hranu svahu, úplně nahoru atd.). Svěřence nejprve necháme přejít kopec z jedné strany na druhou podél linie a během celé doby mají za úkol zaměřovat. Následně je postupně odstartujeme zpět s cílem najít všechny kontroly. Svěřenci by měli pozorovat změny v chování signálu oproti prvnímu přechodu v závislosti na viditelnosti (oblasti stínu) a vzdálenosti.
+- **Seběh svahu** -- obdobné tréninku v kopci, všechny kontroly umístíme do svahu a startujeme zezhora. Je možné zadat pořadí vyhledávání vysílačů (ideální / neideální). 
+
 [^1]: VLACHOVÁ Vlasta, Trénink mládeže v ROB, 2008 - [odkaz](https://ardf.cz/images_obsah/1225903406-trenink-mladeze.pdf)
