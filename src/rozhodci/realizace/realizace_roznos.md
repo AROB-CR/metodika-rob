@@ -4,7 +4,12 @@ Pro roznos kontrol je potřeba počítat s dostatečnou časovou rezervou a s mo
 
 Ačkoliv v ROB není přesná pozice kontroly tak důležitá jako při klasickém OB, u velkých soutěží lze využít štítkování (ozačení místa kontroly stavitelem malým štítkem s číslem). Obsluha tak má jistotu, že staví na správném místě. Pokud to není využito a kontrola je na hraně minimální vzdálenosti od jiných (na sprintu pouze 100 m), je potřeba obsluze do mapy vyznačit kromě vlastní kontroly i pozice blízkých kontrol. V případě nutnosti posunout kontrolu (vhodný strom atd.) pak obsluha ví, jakým směrem je to možné.
 
-Samotné kontroly se zapínají až na pokyn hlavního rozhodčího po odevzdání rádií. Každý vysílač je potřeba doladit -- starší vysílače Trainer se obvykle ladí manuálně pomocí LED diody, nové vysílače CONTEST se doladí automaticky v první relaci svého vysílání. Vysílače proto zapínáme vždy až poté, co máme anténu finálně nainstalovanou! 
+Kontrola by vždy měla být umístěna tak, aby byla viditelná ze všech náběhových směrů (vyjma foxoringu). Skryté kontroly v hustníku přináší do závodu faktor náhody, jelikož se nedají mimo relaci dohledat a závodníci se tak sbíhají na jednom místě.
+
+![Správná pozice kontroly.](../../img/realizace_pozice_kontroly.jpg)
+*Dobře umístěná kontrola, viditelná ze všech směrů. Foto [OK2PPK](https://ok2ppk.cz/index.php?pg=fgal&gal=rob180507).*
+
+Samotné kontroly se zapínají až na pokyn hlavního rozhodčího po odevzdání rádií. Každý vysílač je potřeba doladit -- starší vysílače Trainer se obvykle ladí manuálně pomocí LED diody, nové vysílače CONTEST se doladí automaticky v první relaci svého vysílání. **Vysílače proto zapínáme vždy až poté, co máme anténu finálně nainstalovanou!** 
 
 ## Stavba kontroly v pásmu 3,5 MHz
 1. **Najdeme vhodný strom**
@@ -19,6 +24,9 @@ Samotné kontroly se zapínají až na pokyn hlavního rozhodčího po odevzdán
 6. **Umístíme stojan s lampionem a SI** -- na sprintu max. 2 m od antény, na klasických disciplínách 4 m.
 7. **Pokud je potřeba, kontrolu a SI zamkneme** -- pořádně zkontrolujeme, že lanko je správně a klíč jsme vzali s sebou.
 
+![Správná instalace antény na 80m.](../../img/realizace_antena_80m.jpg)
+*Správně nainstalovaná anténa na 80m, kdy smyčka na uzemnění kolem stromu brání vytržení konektoru. Foto [OK2PPK](https://ok2ppk.cz/index.php?pg=fgal&gal=rob180507).*
+
 ## Stavba kontroly v pásmu 144 MHz
 1. **Najdeme vhodný strom**
 2. **Nahodíme házedlo** -- stačí výška cca 3-4 m, cílíme cca na metr vzdálenosti od stromu, aby se anténa nedotýkala.
@@ -28,7 +36,13 @@ Samotné kontroly se zapínají až na pokyn hlavního rozhodčího po odevzdán
 6. **Umístíme stojan s lampionem a SI** -- max. 4 m od antény.
 7. **Pokud je potřeba, kontrolu a SI zamkneme** -- pořádně zkontrolujeme, že lanko je správně a klíč jsme vzali s sebou.
 
+![Správná instalace antény na 2m.](../../img/realizace_antena_2m.jpg)
+*Správná instalace antény na 2m. Prvky jsou umístěny vodorovně a nedotýkají se stromu. Foto [OK2PPK](https://ok2ppk.cz/index.php?pg=fgal&gal=rob180507).*
+
 ## Pozice obsluhy
 Pokud na dané kontrole obsluha zůstává, je potřeba, aby na kontrolu závodníky nenaváděla (tj. vyhnout se výraznému oblečení / chození okolo). Na druhou stranu musí být dostatečně blízko na to, aby v případě výpadku zvládla přepnout včas na záložní vysílač.
 
-Existují v podstatě dva přístupy, buď obsluha leží / sedí v bezprostřední blízkosti vysílače, či je vzdálená na cca 50 m jiným směrem, než je předpokládáný směr postupu závodníka.
+Existují v podstatě dva přístupy, buď obsluha leží / sedí v bezprostřední blízkosti vysílače, či je vzdálená na cca 20 m jiným směrem, než je předpokládáný směr postupu závodníka.
+
+![Vzorová pozice obsluhy.](../../img/realizace_pozice_obsluhy.jpg)
+*Vzorová pozice obsluhy na kontrole. Zdálky závodník uvidí jen lampion. Foto [OK2PPK](https://ok2ppk.cz/index.php?pg=fgal&gal=rob180507).*
