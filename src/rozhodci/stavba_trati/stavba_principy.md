@@ -36,9 +36,11 @@ Postavit trať tak, aby splňovala směrné časy ve všech kategoriích je pom�
 ![Příklad členitého terénu.](../../img/stavba_trati_clenitost.jpg)
 *Příklad členitého terénu, kde je adekvátní tratě zkrátit. Zdroj [Mapový portál ČSOS](https://mapy.ceskyorientak.cz/mapa/kamenak-15-2024).*
 
-## Oponentura
+## Oponentura a zpětná vazba
 Důležitou trať (na vyšší soutěž) by nikdy neměl stavět pouze jeden člověk. Každý stavitel se soustředí na své detaily (např. preferované kategorie, fyzická náročnost atd.) a často má tendenci opomíjet jiné. Proto je důležité při samotné stavbě spolupracovat s jinými činovníky (zejména s hlavním rozhodčím) a nechat si tratě průběžně kontrolovat.
 
 Tímto způsobem se dá předejít velkému množství [častých chyb](stavba_chyby.md) při stavbě, které následně sráží kvalitu samotnému závodu. Je škoda, když dobře zorganizovaný závod selže na špatně postavené trati jen proto, že stavitel věřil ve své umění a s nikým se neporadil.
+
+Po samotném závodě není od věci si přímo od závodníků vyslechnout komentáře ke své stavbě a jejich podněty zapracovat do budoucna. Často se tak člověk dozví věci, které by od stolu a z výsledků nezjistil. Na druhou stranu je dobré počkat nějaký čas po doběhu, jelikož někteří závodníci rádi mluví od plic a pokud se jim závod nepovedl, často na vině bývá právě stavitel.
 
 [^1]: [Pravidla ROB](https://ardf.cz/clanek/6/dokumenty-ke-stazeni.html)
