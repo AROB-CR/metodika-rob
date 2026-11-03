@@ -23,8 +23,8 @@ Obecně platí, že čím zkušenější tým, tím méně je potřeba lidí. Na
 Malé závody bez obsluh lze obvykle zvládnout v týmu cca 2-5 lidí, kdy je však nutné počítat s kumulací více funkcí, roznosem dopředu a velmi omezenou možností opravit chyby.
 
 U větších závodů se doporučuje následujcíí:
-- **Start** -- minimálně 3 pořadatelé
-- **Cíl** -- minimálně 2 pořadatelé, ideálně 3. (případně může pomáhat řidič při prevozu materiálu)
+- **Start** -- minimálně 3 pořadatelé (vyvolávání, předávání map a startér).
+- **Cíl** -- minimálně 2 pořadatelé, ideálně 3 (vyčítání, občerstvení, špagátostroj), případně může pomáhat řidič při převozu materiálu, ale není to ideální.
 - **Obsluhy** -- dle množství kontrol, pokud to není možné, pak max. 2 kontroly / obsluha
 
 ## Nástroje pro komunikaci
