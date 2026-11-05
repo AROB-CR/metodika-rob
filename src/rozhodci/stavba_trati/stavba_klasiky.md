@@ -32,7 +32,7 @@ Náběhové koriodry dostatečně rozdělují závodníky mezi kontrolami 2 a 3.
 
 Kontroly jsou postavené v dobře prostupném lese, tj. dohledávky nejsou náhodné, úhly mezi kontrolami nevedou k výrazným protiběhům. Doběh do cíle vede od majáku po velké zpevněné cestě.
 
-![Ukázka vhodně postavené tratě.](../../img/stavba_trati_klasika_dobra.png)
+![Ukázka dobře postavené tratě.](../../img/stavba_trati_klasika_dobra.png)
 
 ## Příklad hůře postavené tratě
 Tato trať splňuje všechny náležitosti dle pravidel ROB, avšak bohužel ztrácí kvůli chybám na kvalitě. Samotný terén obsahuje pro ROB velké množství hustníků, které výrazně komplikují průběžnost terénu a tak není možné využít běh na azimut -- většinu postupů se vyplatí obíhat po cestách. Kontroly jsou často umístěné ve uzavřeném terénu -- např. kontroly číslo 3 a R3 na hraně hustníku opět velmi ztěžují případnou dohledávku. Kontrola R2 je umístěna na kraji mapy bez výrazné zastavovací linie.
