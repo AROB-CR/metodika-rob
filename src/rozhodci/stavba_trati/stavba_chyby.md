@@ -17,6 +17,7 @@ Protiběh bývá obvykle nežádoucí, protože prozrazuje pozici kontroly a dá
 ## Schované kontroly
 Pokud se nejedná o foxoring, měla by kontrola být viditelná ze všech možných náběhových směrů. Častou chybou stavitele je umístění kontroly na místo, odkud ji nelze mimo relaci dohledat (hluboká jáma, hustník atd.). V momentě, kdy závodník na takovou kontrolu nabíhá mimo relaci, téměř nemá šanci ji bez jiných závodníků najít, což do závodu přináší zbytečný element náhody a pocit frustrace. Samotná obsluha by si po postavení kontroly měla zkontrolovat, zda je lampion dostatečně viditelný.
 
+<!-- TODO: doplnit obrázek schované kontroly -->
 
 ## Postupy přes cíl a nevhodné umístění majáku
 Nemělo by se stát, že ideální postup mezi kontrolami vede přes cíl či přes maják. Dle pravidel ROB je pro závodníka povoleno cílovou arénou proběhnout a stavitel tak riskuje srážky závodníků na trati s doběhlými závodníky a podobné zmatky. V cíli často také bývá vyvěšená mapa s zákresem vzorových kontrol a ačkoliv by za nahlédnutí do mapy byla jistá diskvalifikace, je lepší těmto situacím předcházet.
