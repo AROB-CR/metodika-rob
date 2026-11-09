@@ -1,4 +1,4 @@
-# Technická příprava (Pavel Kolský)
+# Technická příprava
 
 ROB jako technický sport klade na technickou přípravu vysoké nároky – i běžecky průměrný závodník s lepší technikou může snadno předběhnout i nejlepšího atleta. Ovládnout a postupně zdokonalit správnou techniku však trvá poměrně dlouho (řádově několik měsíců – let). 
 

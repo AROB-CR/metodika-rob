@@ -26,10 +26,12 @@
   - [Specifika disciplín](./treneri/taktika/taktika_discipliny.md)
 - [Psychologická příprava](./treneri/psychologie/psychologie_uvod.md)
 - [Technologie](./treneri/technologie/technologie_uvod.md)
+  - [Základní principy a pojmy radiotechniky](./treneri/technologie/technologie_zaklady.md)
+  - [Přijímače](./treneri/technologie/technologie_prijimace.md)
   - [Vysílače](./treneri/technologie/technologie_vysilace.md)
   - [Tréninkové deníky](./treneri/technologie/technologie_deniky.md)
-  - [GPS hodinky](./treneri/technologie/technologie_hodinky.md)
-  - [GPS analýzy](./treneri/technologie/technologie_analyzy.md)
+  - [Sportovní hodinky](./treneri/technologie/technologie_hodinky.md)
+  - [Analýzy postupů](./treneri/technologie/technologie_analyzy.md)
 - [Odkazy](./treneri/treneri_odkazy.md)
   
   
