@@ -14,3 +14,6 @@ Finální výsledky je vhodné do ROBisu nahrát hned po uplynutí lhůty na pod
 Vyhlášení se provádí na dostatečně důstojném místě ideálně s jednolitým pozadím, za použití stupňů vítězů. Nejsou-li ty k dispozici, lze využít improvizované stupňě za pomocí lampionů a čísel, či menší stupínky. Obzvlášť na soutěžích I. stupně lze předpokládat další využití fotek a ty by tak měly být dostatečně reprezentativní.
 
 ![Vyhlášení výsledků](../../img/realizace_po_soutezi_vyhlaseni.jpg)
+
+## Vyúčtování
+Po skončení akce je také nutné uhradit veškeré pohledávky (faktury za mapy, ubytování, mobilní WC atd.) a provést vyúčtování -- shromáždit doklady (účtenky, faktury) a vše sepsat. Pokud byly na realizaci čerpány nějaké dotace, je nutné doplnit požadovanou dokumentaci a obvykle i dodat fotografie či výsledkové listiny (záleží na podmínkách). Pokud klubům nebyla vystavena potvrzení za příjem startovného rovnou při prezenci, je tak nutné učinit zpětně.

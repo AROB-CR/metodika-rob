@@ -1,3 +1,3 @@
-# Realizace soutěže (Pavel Kolský)
+# Realizace soutěže
 
 Den soutěže nastal a všechno potřebné plánování se má změnit v realitu. Jak si s tím poradit, na co nezapomenout a jak hasit krize, to napoví tato kapitola.
