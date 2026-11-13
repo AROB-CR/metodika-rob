@@ -10,26 +10,19 @@ Obecné zásady při řešení problémů:
 
 ## Vzorové situace
 
-### 1. Výpadek vysílače
-**Popis:** Do cíle příbíhá závodník a podává protest, že v průběhu závodu mu nefungoval vysílač.
-
-**Řešení:** Nejprve je potřeba ověřit na odposlechu, že vysílač opravdu nefungoval / nefunguje. Pokud nefunguje, mělo by dojít k přepnutí na záložní vysílač, aby se závod počítal případným později startujícím kategoriím. Monitorovací přijímač po celou dobu nahrává záznam ze soutěže a je tak možné zpětně dohledat konkrétní čas.
-
-Pokud vysílač opravdu nefungoval, je na místě anulování závodu z důvodů neregulérních podmínek pro všechny dotčené kategorie (tj. všechny, které jej vyhledávaly). O anulování závodu rozhoduje jury závodu na návrh hlavního rozhodčího nebo delegáta. Situace by se naopak neměla řešit odebíráním času / přidáváním kontrol, jelikož nelze přesně určit, jak byl který závodník výpadkem ovlivněn. 
-
-### 2. Zranění závodníka v terénu
+### 1. Zranění závodníka v terénu
 **Popis:** Do cíle se dostává informace o zranění závodníka v blízkosti jedné z kontrol.
 
 **Řešení**: Dle závažnosti zranění a přístupnosti terénu se rozhodne o konkrétním způsobu přepravy zraněného z lesa. Nachází-li se na místě přístupném autem a jeho zranění nejsou vážná, je možné jej převézt svépomocí. Je-li naopak v nepřístupném terénu (např. skály) či má vážné zranění, je nutné neprodleně o situaci informovat IZS a dodržovat pokyny konkrétních složek. Na místě je využití pomoci ostatních závodníků, zdraví má vždy přednost před výsledky!
 
-### 3. Vosy
+### 2. Vosy
 **Popis:** V blízkosti jedné z kontrol se nachází vosí hnízdo, do kterého závodník stoupnul a vosy tak rozdráždil. 
 
 **Řešení:** Závod lze po 60 minut přerušit a dát tak vosám trochu prostoru se zklidnit. Pokud je to jen trochu možné, dané místo může zkusit obsluha ohradit páskou a zároveň by tato informace měla být předána závodníkům na startu, zejména důležité je zjistit přítomnost alergiků. 
 
 Není-li možné místo ohradit, je nutné závod pro dané kategorie zrušit s ohledem na bezpečnost závodníků. Ostatní kategorie, které kontrolu nevyhledávají, mohou závod doběhnout.
 
-### 4. Ztracený závodník
+### 3. Ztracený závodník
 **Popis:** Všichni ostatní závodníci již doběhli do cíle, v lese zůstalo malé dítě kategorie M12, kterému již dávno vypršel limit.
 
 **Řešení:** Nejprve je potřeba zjistit od obsluh, zda bylo dítě viděno na nějaké z kontrol, stejně tak se lze dotázat závodníků, zda ho některý z nich neviděl. Pokud ano, začínáme s hledáním v daném prostoru pomocí rojnice, přičemž pořadatel má právo využít pomoci ostatních závodníků. Je nutné o takové situaci informovat zejména trenéra / zodpovědnou osobu daného závodníka.
